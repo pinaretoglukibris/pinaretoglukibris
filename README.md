@@ -10,9 +10,8 @@
 - 🔭 I am actively looking for a job
 - 🌱 I’m currently learning Software Test Methodologies and other software technologies
 - 👯 I’m looking to collaborate on development in software
-- 💬 Ask me about all about software technologies
 - 📫 How to reach me: pinaretglu@gmail.com
-- 😄 Pronouns: She
+
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=pinaretoglukibris&show_icons=true&theme=radical)
 
